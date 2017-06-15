@@ -5,7 +5,7 @@ html {
 }
 
 h1 {
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
   text-align: center;
   color: white;
@@ -17,7 +17,7 @@ a {
 }
 
 h2 {
-  font-weight: 300;
+  font-weight: bold;
   font-size: 42px;
   color: white;
 }
@@ -25,4 +25,8 @@ h2 {
 p {
   font-size: 21px;
   color: gray;
+}
+
+.footer {
+  text-align: right;
 }
